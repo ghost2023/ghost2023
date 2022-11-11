@@ -1,4 +1,4 @@
 # Nathnael Wondisha(Ghost)
 
-## FrontEnd Developer and parttime python scripter.
+## FrontEnd Developer and part-time python scripter.
 
