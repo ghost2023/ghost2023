@@ -1,5 +1,3 @@
-# Nathnael Wondisha(Ghost)
-
 <h1 align="center">Hi 👋, I'm Nathnael</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 I have a huge love for learning where that be new or old tech. I place in my heart for tech that are paragrammatic and get the job done.
