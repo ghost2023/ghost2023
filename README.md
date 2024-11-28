@@ -5,10 +5,10 @@ I have a huge love for learning where that be new or old tech. I place in my hea
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost2023&label=Profile%20views&color=0e75b6&style=flat" alt="ghost2023" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-[My site](https://nati-wondisha.vercel.app/)
-[Telegram](https://t.me/AsinisterH)
-[Twitter](https://x.com/NathnaelWondis2)
 <p align="left">
+<a href="https://nati-wondisha.vercel.app/">My site</a>
+<a href="https://t.me/AsinisterH">Telegram</a>
+<a href="https://x.com/NathnaelWondis2">Twitter</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
