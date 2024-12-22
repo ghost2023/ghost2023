@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathnael</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate software developer from Ethiopia</h3>
 I have a huge love for learning where that be new or old tech. I place in my heart for tech that are paragrammatic and get the job done.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost2023&label=Profile%20views&color=0e75b6&style=flat" alt="ghost2023" /> </p>
